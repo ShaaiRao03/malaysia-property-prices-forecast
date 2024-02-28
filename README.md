@@ -7,7 +7,7 @@ This project utilizes machine learning techniques, including RandomForestRegress
 Dataset used : https://www.kaggle.com/datasets/mcpenguin/raw-malaysian-housing-prices-data 
 
 ## Demo video 
-![Demo Video](price-predictor.mp4) 
+![Demo Video](https://drive.google.com/file/d/15JNeDCnpTVlaV0hrOJMAQ3GG2OQA_JaR/view?usp=sharing) 
 
 Live demo : https://malaysia-property-prices-forecast.streamlit.app
 
